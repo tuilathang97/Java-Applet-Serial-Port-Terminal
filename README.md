@@ -16,7 +16,7 @@ Lower Internet Explorer Security Level ( Tools -> Internet Options -> Security -
 
 ## Step 3: 
 
-Go to Control panel -> Programs -> Java -> Security -> Edit Site List -> add "https://tuilathang97.github.io/Java-Applet-Serial-Port-Terminal/index.html"
+Go to Control panel -> Programs -> Java -> Security -> Edit Site List -> add "https://tuilathang97.github.io/"
 
 ## Step 4: 
 
